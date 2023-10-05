@@ -5,5 +5,3 @@
 
 <Menu />
 <Params />
-
-<p>Random number: {Math.random()}</p>
