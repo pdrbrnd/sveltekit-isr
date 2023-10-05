@@ -1,1 +1,2 @@
+<div>Layout</div>
 <slot />
