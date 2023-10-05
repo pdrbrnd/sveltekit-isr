@@ -1,9 +1,9 @@
-<script lang="ts">
-  import Menu from '$lib/components/menu.svelte';
-  import Params from '$lib/components/params.svelte';
-</script>
+<p>Navigate and refresh the page:</p>
 
-<Menu />
-<Params />
+<ul>
+  <li><a href="/">/</a></li>
+  <li><a href="/foo">/foo</a></li>
+  <li><a href="/foo/bar">/foo/bar</a></li>
+</ul>
 
 <slot />
